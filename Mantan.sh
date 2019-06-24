@@ -1,6 +1,7 @@
 #hanya prank gan
 #voucernya sudah pernah di gunakan
-#clear
+#maaf gan toolsnya hanya gini
+clear
 figlet Ciee Jones | lolcat
 echo
 echo " crack voucher pulsa 3 " | lolcat
