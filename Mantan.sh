@@ -1,3 +1,4 @@
+clear
 #hanya prank gan
 #voucernya sudah pernah di gunakan
 #maaf gan toolsnya hanya gini
