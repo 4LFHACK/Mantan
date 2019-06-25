@@ -43,7 +43,7 @@ echo  "berikut ini adalah voucher yang berhasil di dapatkan" | lolcat
 sleep 5
 echo
 echo
-echo " 8816372105624438 " | lolcat
+echo " 3050423488603983 " | lolcat
 echo
 echo
 echo "gunakan tools ini dengan benar" | lolcat
